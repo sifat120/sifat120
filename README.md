@@ -2,8 +2,8 @@
 
 ## My name is Sifat Hasan and I am an incoming freshman at the University of Washington. I am an aspiring computer scientist and I am constantly driven by different CS disciplines and fields. In the future, I want to work with technologies like AI/ML to build innovative and revolutionary products, from building products and services in the healthcare industry to building LIDAR technologies for autonomous vehicles. If you want to connect, my LinkedIn alias is sifathasan120.
 
-###LinkedIn: https://www.linkedin.com/in/sifathasan120/
-###Email: sifat120@outlook.com
+### LinkedIn: https://www.linkedin.com/in/sifathasan120/
+### Email: sifat120@outlook.com
 <!--
 **sifat120/sifat120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
